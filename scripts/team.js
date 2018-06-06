@@ -1,0 +1,3 @@
+define({
+    player: "Beviz Elek"
+});
